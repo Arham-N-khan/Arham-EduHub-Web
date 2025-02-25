@@ -1,2 +1,10 @@
 # Arham-EduHub
-ArhamEdu Hub - An educational platform designed to provide interactive learning experiences, quizzes, and study resources. Built with modern web technologies for a seamless user experience.
+A simple educational website built using HTML & CSS
+
+📌 About This Project
+ArhamEdu Hub is an educational platform designed to provide valuable resources for students. This website is built using only HTML & CSS, ensuring a clean and responsive design.
+
+🔹 Features
+✔️ Responsive design
+✔️ Clean and modern UI
+✔️ Educational content layout
